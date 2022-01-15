@@ -1,4 +1,4 @@
-### Hello! I'm Yana 👋
+### Hello! I'm glad to see you in my repository 👋
 
 <!--
 **yanalitorina/yanalitorina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
